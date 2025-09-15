@@ -68,3 +68,8 @@ Learn the fundamentals of MongoDB, including installation, creating collections,
 4. Commit and push your changes to GitHub
 5. Your submission will be automatically graded based on the criteria in the autograding configuration
 6. The instructor will review your submission after the autograding is complete 
+
+## MongoDB Screenshot
+![MongoDB Output ](./screenshots/Screenshot1.jpg)
+![MongoDB Output](./screenshots/Screenshot%202.jpg)
+![MongoDB Output](./screenshots/Screenshot%203.jpg)
